@@ -9,7 +9,7 @@
     "clash_api": {
       "external_controller": "0.0.0.0:9095",
       "external_ui": "/etc/sing-box/ui",
-      "secret": "qichiyu1551",
+      "secret": "sanyue1983",
       "external_ui_download_url": "https://ghgo.xyz/https://github.com/Zephyruso/zashboard/archive/refs/heads/gh-pages.zip",
       "external_ui_download_detour": "🎯 全球直连",
       "default_mode": "rule"
@@ -53,15 +53,15 @@
     "platform": {
       "http_proxy": {
         "enabled": true,
-        "server": "127.0.0.1",
-        "server_port": 2080
+        "server": "0.0.0.0",
+        "server_port": 2025
       }
     }
   },
   {
     "type": "mixed",
-    "listen": "127.0.0.1",
-    "listen_port": 2080,
+    "listen": "0.0.0.0",
+    "listen_port": 2025,
     "sniff": true,
     "users": []
   }
