@@ -101,7 +101,6 @@
    "rules": 
    [
     { "type": "logical", "mode": "or", "rules": [{ "port": 53 }, { "protocol": "dns" }], "outbound": "dns-out" },
-     {"domain_suffix": ["haidan.video", “rousi.zip”, “audiences.me”, “hdatmos.club”, “hdarea.club”, “1ptba.com”, “lemonhd.club”, “kp.m-team.cc”, “time.windows.com”], "outbound": "🎯 全球直连"},
      {"clash_mode": "direct", "outbound": "🎯 全球直连"},
      {"clash_mode": "global", "outbound": "GLOBAL"},
      {"rule_set": "geosite-private", "outbound": "🎯 全球直连"},
