@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 # 国外域名关键字
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,themoviedb
 
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
