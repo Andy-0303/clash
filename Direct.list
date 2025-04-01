@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,plex.direct
 # DOMAIN-SUFFIX,v4.plex.tv
 
+DOMAIN-SUFFIX,115.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
