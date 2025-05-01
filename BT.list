@@ -16,9 +16,8 @@ DOMAIN-SUFFIX,api.m-team.cc
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,hk.lovemimi.top
 DOMAIN-SUFFIX,kp.alist.lovemimi.top
-DOMAIN-SUFFIX,okpt.net
-
-
+DOMAIN-SUFFIX,okpt.net  
+DOMAIN-SUFFIX,raingfh.top  
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,baidu
